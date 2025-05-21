@@ -1,6 +1,5 @@
-# 💫 About Me:
 # 💫 Hi there👋, I'm Poorva !
-** a B.tech computer science undergraduate at Vellore institute of technology || passionate about coding, technology and continuous learning !**
+A B.tech computer science undergraduate at Vellore institute of technology || passionate about coding, technology and continuous learning !
 
 Email Me 👉 ✉️ **poorvajaiswal2708@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
