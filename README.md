@@ -2,7 +2,7 @@
 A B.tech computer science undergraduate at Vellore institute of technology || passionate about coding, technology and continuous learning !
 
 Email Me 👉 ✉️ **poorvajaiswal2708@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-Profile hits- [![HitCount](https://hits.dwyl.com/Poorva77/Poorva77.svg?style=flat-square)](http://hits.dwyl.com/Poorva77/Poorva77)
+Profile Views- ![Profile views](https://komarev.com/ghpvc/?username=YourUsername&color=green)
 
 - 🌱 **I’m currently learning:** Web Development.
 - 👯 **I’m looking to collaborate on:** Tech events, hackathons, and coding tasks.
