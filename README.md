@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **poorvajaiswal2708@gmail.com** For Collaboration/Project o
 - 📫 **How to reach me:** Email, LinkedIn or instagram DMs.
 - ⚡ **Fun fact:** I code better with midnight silence.
 
-
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Poorva77)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poorva__jaiswal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorva-jaiswal-53aa29303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poorvajaiswal2708@gmail.com) 
